@@ -1,5 +1,5 @@
 #include <stdio.h>
-                  //ALUNO JOAO PEDRO DOS SANTOS FONSECA - 2 TRABALHO FEITO SOZINHO
+                  //ALUNO JOAO PEDRO DOS SANTOS FONSECA - TRABALHO FEITO SOZINHO
 main()
  {
     int dados[10],x[10],y[10];
