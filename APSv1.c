@@ -5,11 +5,16 @@
                   //ALUNO JOAO PEDRO DOS SANTOS FONSECA - TRABALHO FEITO SOZINHO
 main()
  {
+	//criando variaveis para os numeros recebidos (dados), numeros pares (x) e numeros impares (y)
     int dados[10],x[10],y[10];
+	//quadrado da diferenca de X e Y
     int quadradox,quadradoy;
+	//s(variancia) de x e de y
     int sx,sy;
+	//medias e somas de x e y
     int mediax,somax;
     int mediay,somay;
+	//variaveis usadas apenas para somar no for
     int j,k = 0;
     int i,n;
     
