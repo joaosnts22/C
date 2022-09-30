@@ -1,3 +1,6 @@
+                   //ideia do exercicio era receber 10 numeros, filtrar eles em 2 vetores, pares e impares
+                   //e logo após calcular suas devidas médias e variância de cada vetor.
+
 #include <stdio.h>
                   //ALUNO JOAO PEDRO DOS SANTOS FONSECA - TRABALHO FEITO SOZINHO
 main()
