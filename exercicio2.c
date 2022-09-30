@@ -1,3 +1,5 @@
+                              //usando recursividade para calcular fatorial(!) de um número entre 1 e 10
+
 #include<stdio.h>
 
 int calcFatorial(n){
