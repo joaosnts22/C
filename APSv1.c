@@ -51,7 +51,7 @@ main()
 	printf("\nMedia do vetor x: %d",mediax);
 	printf("\n----------------------");
 	
-    //for para calcular soma do vetor 
+    //for para calcular soma do vetor Y
 	for(i=0;i<k;i++){
     somay = somay + y[i];
 	}
