@@ -1,3 +1,5 @@
+                                   //menu simples e calculo de média
+
 #include<stdio.h>
 
 int calcMedia(int av1,int av2){
